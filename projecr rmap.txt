@@ -1,0 +1,92 @@
+Here's the roadmap I recommend
+Phase 1 — Dataset & Cleaning (2 days)
+Download the dataset
+Understand the columns
+Handle missing values
+Remove duplicates
+Fix data types
+Detect and handle outliers
+Phase 2 — EDA (3 days)
+
+Create 15–20 meaningful visualizations, for example:
+
+Monthly sales
+Yearly sales
+Top products
+Top customers
+Sales by city
+Profit by category
+Discounts vs profit
+Correlation heatmap
+
+Write business insights for each chart.
+
+Phase 3 — Feature Engineering (2 days)
+
+Create features like:
+
+Profit margin
+Revenue per order
+Order month
+Quarter
+Day of week
+Weekend indicator
+Average customer order value
+Phase 4 — Machine Learning (3 days)
+
+Train and compare:
+
+Linear Regression
+Random Forest
+Gradient Boosting
+XGBoost
+
+Evaluate with:
+
+MAE
+RMSE
+R²
+
+Select the best model.
+
+Phase 5 — Streamlit Dashboard (4 days)
+
+Build pages such as:
+
+📊 Dashboard
+📈 Sales Analytics
+👥 Customer Insights
+🤖 Sales Prediction
+📄 About Project
+
+Add filters for:
+
+Year
+Category
+City
+Product
+Phase 6 — GitHub & Deployment (2 days)
+
+Include:
+
+Well-written README
+Screenshots
+requirements.txt
+Clean folder structure
+Deploy the Streamlit app
+End result
+
+By the end, you'll have a project that demonstrates:
+
+✅ Python
+✅ Pandas
+✅ Data Cleaning
+✅ Feature Engineering
+✅ Data Visualization
+✅ Machine Learning
+✅ Model Evaluation
+✅ Streamlit
+✅ GitHub
+✅ Deployment
+
+This is the kind of project you can confidently showcase in interviews.
